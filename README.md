@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel Layedra</h1>
 
 
-- 🌱 I’m currently learning **vanilla JavaScript, Laravel, C#**
+- 🌱 I’m currently learning **vanilla JavaScript, C#**
 - 🔭 I’m currently working on **AdvanceSPC**
 - 📫 How to reach me **layedra75@gmail.com**
 
