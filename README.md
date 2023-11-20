@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/joel-layedra-guevara-11b646144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-layedra-guevara" height="30" width="40" /></a>
+<a href="https://ec.linkedin.com/in/joel-layedra-guevara-11b646144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel-layedra-guevara" height="30" width="40" /></a>
 </p>
 
 <p align="left">
